@@ -1,12 +1,10 @@
 /**
  * @author
  * 
- * Suhas Jangoan
- * 
+ * Suhas Jangoan as author
+ *  
  * 
  */
-
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileOutputStream;
